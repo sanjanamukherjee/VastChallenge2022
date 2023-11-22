@@ -1,0 +1,1267 @@
+[
+  {
+    "employerId": 379,
+    "location": "POINT (-1849.997168394888 1744.6010147106394)",
+    "buildingId": 823
+  },
+  {
+    "employerId": 380,
+    "location": "POINT (41.51783767879146 418.7264799744545)",
+    "buildingId": 154
+  },
+  {
+    "employerId": 381,
+    "location": "POINT (877.2786575380362 1358.5441805909259)",
+    "buildingId": 279
+  },
+  {
+    "employerId": 382,
+    "location": "POINT (670.3987400004884 1584.4743462106067)",
+    "buildingId": 3
+  },
+  {
+    "employerId": 383,
+    "location": "POINT (829.9556783260775 2163.4803049897623)",
+    "buildingId": 146
+  },
+  {
+    "employerId": 384,
+    "location": "POINT (880.1644882398598 4339.7016557216575)",
+    "buildingId": 527
+  },
+  {
+    "employerId": 385,
+    "location": "POINT (231.13884534051988 1095.6471792268785)",
+    "buildingId": 782
+  },
+  {
+    "employerId": 386,
+    "location": "POINT (-1349.8842287593952 1610.4623628717086)",
+    "buildingId": 596
+  },
+  {
+    "employerId": 387,
+    "location": "POINT (864.9382009582821 1556.3972795892669)",
+    "buildingId": 880
+  },
+  {
+    "employerId": 388,
+    "location": "POINT (611.8427226577171 2550.7250184246723)",
+    "buildingId": 986
+  },
+  {
+    "employerId": 389,
+    "location": "POINT (1749.107722959826 4023.6598528872755)",
+    "buildingId": 1020
+  },
+  {
+    "employerId": 390,
+    "location": "POINT (994.4462620941047 3762.3654281251634)",
+    "buildingId": 347
+  },
+  {
+    "employerId": 391,
+    "location": "POINT (609.8156412485578 787.4692664792319)",
+    "buildingId": 632
+  },
+  {
+    "employerId": 392,
+    "location": "POINT (-885.2966139548657 1555.9764946386085)",
+    "buildingId": 315
+  },
+  {
+    "employerId": 393,
+    "location": "POINT (903.9691099852218 4220.741537877808)",
+    "buildingId": 592
+  },
+  {
+    "employerId": 394,
+    "location": "POINT (865.149408963124 982.7393731902811)",
+    "buildingId": 893
+  },
+  {
+    "employerId": 395,
+    "location": "POINT (286.586327845334 1725.5999247626096)",
+    "buildingId": 230
+  },
+  {
+    "employerId": 396,
+    "location": "POINT (868.902110395577 4390.34074468453)",
+    "buildingId": 590
+  },
+  {
+    "employerId": 397,
+    "location": "POINT (1499.3204774627252 4304.553083816536)",
+    "buildingId": 351
+  },
+  {
+    "employerId": 398,
+    "location": "POINT (754.0987512384932 1394.0500627767071)",
+    "buildingId": 692
+  },
+  {
+    "employerId": 399,
+    "location": "POINT (1626.36173317109 4226.189405838731)",
+    "buildingId": 180
+  },
+  {
+    "employerId": 400,
+    "location": "POINT (753.1769059100845 1739.395851679909)",
+    "buildingId": 227
+  },
+  {
+    "employerId": 401,
+    "location": "POINT (-1674.8630003427375 1638.1520588255166)",
+    "buildingId": 623
+  },
+  {
+    "employerId": 402,
+    "location": "POINT (1004.1152674725888 4462.540163068401)",
+    "buildingId": 717
+  },
+  {
+    "employerId": 403,
+    "location": "POINT (2026.3999572104358 4142.402774048681)",
+    "buildingId": 1023
+  },
+  {
+    "employerId": 404,
+    "location": "POINT (2630 4050)",
+    "buildingId": 103
+  },
+  {
+    "employerId": 405,
+    "location": "POINT (1535.4111740520664 4021.741043075247)",
+    "buildingId": 982
+  },
+  {
+    "employerId": 406,
+    "location": "POINT (973.2374190327052 3805.640410966102)",
+    "buildingId": 347
+  },
+  {
+    "employerId": 407,
+    "location": "POINT (1105.2630658126443 3730.801103253373)",
+    "buildingId": 1033
+  },
+  {
+    "employerId": 408,
+    "location": "POINT (412.9860808984934 1033.1806025214216)",
+    "buildingId": 516
+  },
+  {
+    "employerId": 409,
+    "location": "POINT (1207.490101417887 4007.885706041321)",
+    "buildingId": 225
+  },
+  {
+    "employerId": 410,
+    "location": "POINT (1376.3976505541523 4822.779542501879)",
+    "buildingId": 1024
+  },
+  {
+    "employerId": 411,
+    "location": "POINT (916.9315425022253 4292.958506850986)",
+    "buildingId": 527
+  },
+  {
+    "employerId": 412,
+    "location": "POINT (496.2476568904982 1686.1524496266945)",
+    "buildingId": 1009
+  },
+  {
+    "employerId": 413,
+    "location": "POINT (917.1190165763343 2102.895037900609)",
+    "buildingId": 354
+  },
+  {
+    "employerId": 414,
+    "location": "POINT (-82.06554016401982 1511.1129553803012)",
+    "buildingId": 983
+  },
+  {
+    "employerId": 415,
+    "location": "POINT (1496.4456131589884 4021.741043075247)",
+    "buildingId": 982
+  },
+  {
+    "employerId": 416,
+    "location": "POINT (507.31810222892034 1381.6774426214972)",
+    "buildingId": 493
+  },
+  {
+    "employerId": 417,
+    "location": "POINT (-903.1271422325927 1570.7679946298354)",
+    "buildingId": 315
+  },
+  {
+    "employerId": 418,
+    "location": "POINT (789.621374888836 1269.8729153421614)",
+    "buildingId": 472
+  },
+  {
+    "employerId": 419,
+    "location": "POINT (660.2070252315734 3532.331326221758)",
+    "buildingId": 511
+  },
+  {
+    "employerId": 420,
+    "location": "POINT (1677.4145716575592 4234.689307976414)",
+    "buildingId": 795
+  },
+  {
+    "employerId": 421,
+    "location": "POINT (813.0476801480482 4199.837241599387)",
+    "buildingId": 479
+  },
+  {
+    "employerId": 422,
+    "location": "POINT (1273.4344092361837 1252.930095226732)",
+    "buildingId": 317
+  },
+  {
+    "employerId": 423,
+    "location": "POINT (650.4125958509642 1744.50624697462)",
+    "buildingId": 304
+  },
+  {
+    "employerId": 424,
+    "location": "POINT (39.59877121487088 1259.7742218297456)",
+    "buildingId": 936
+  },
+  {
+    "employerId": 425,
+    "location": "POINT (-328.8906021165615 1795.1079117198856)",
+    "buildingId": 946
+  },
+  {
+    "employerId": 426,
+    "location": "POINT (-904.2325319573049 1335.9506479412894)",
+    "buildingId": 256
+  },
+  {
+    "employerId": 427,
+    "location": "POINT (-885.2966139548657 1555.9764946386085)",
+    "buildingId": 315
+  },
+  {
+    "employerId": 428,
+    "location": "POINT (1174.5599898893972 3684.5515693344405)",
+    "buildingId": 323
+  },
+  {
+    "employerId": 429,
+    "location": "POINT (715.9086691087551 4418.132191398763)",
+    "buildingId": 964
+  },
+  {
+    "employerId": 430,
+    "location": "POINT (707.1111664944394 2001.4772026036535)",
+    "buildingId": 304
+  },
+  {
+    "employerId": 431,
+    "location": "POINT (-294.35496310306917 1795.1079117198856)",
+    "buildingId": 946
+  },
+  {
+    "employerId": 432,
+    "location": "POINT (991.3270590871906 4100.917174659022)",
+    "buildingId": 142
+  },
+  {
+    "employerId": 433,
+    "location": "POINT (318.94970745415804 1033.1806025214216)",
+    "buildingId": 516
+  },
+  {
+    "employerId": 434,
+    "location": "POINT (800.6342599068146 4103.165163999878)",
+    "buildingId": 150
+  },
+  {
+    "employerId": 435,
+    "location": "POINT (1122.7448164206246 4383.066969959758)",
+    "buildingId": 34
+  },
+  {
+    "employerId": 436,
+    "location": "POINT (1376.3976505541523 4861.346259046002)",
+    "buildingId": 1024
+  },
+  {
+    "employerId": 437,
+    "location": "POINT (660.2070252315734 3610.994566867167)",
+    "buildingId": 511
+  },
+  {
+    "employerId": 438,
+    "location": "POINT (2130.281249848629 4828.020411811667)",
+    "buildingId": 972
+  },
+  {
+    "employerId": 439,
+    "location": "POINT (585.2216880077107 3622.7180435904966)",
+    "buildingId": 395
+  },
+  {
+    "employerId": 440,
+    "location": "POINT (448.79913987469365 4328.78174286464)",
+    "buildingId": 644
+  },
+  {
+    "employerId": 441,
+    "location": "POINT (-81.95690431663532 1423.077479497391)",
+    "buildingId": 241
+  },
+  {
+    "employerId": 829,
+    "location": "POINT (-1683.9788287469512 4166.34595719268)",
+    "buildingId": 411
+  },
+  {
+    "employerId": 830,
+    "location": "POINT (-804.6120047431612 5042.0163759841835)",
+    "buildingId": 421
+  },
+  {
+    "employerId": 831,
+    "location": "POINT (-2200.279972988196 3572.4693137151007)",
+    "buildingId": 32
+  },
+  {
+    "employerId": 832,
+    "location": "POINT (-831.9562922398395 4676.4089408349555)",
+    "buildingId": 549
+  },
+  {
+    "employerId": 833,
+    "location": "POINT (-1967.8258905516104 4299.950272203162)",
+    "buildingId": 93
+  },
+  {
+    "employerId": 834,
+    "location": "POINT (-2380.139484985013 2944.7204566724226)",
+    "buildingId": 869
+  },
+  {
+    "employerId": 835,
+    "location": "POINT (-2101.689510602101 4262.490673412702)",
+    "buildingId": 619
+  },
+  {
+    "employerId": 836,
+    "location": "POINT (-692.9825370378298 4950.223259408762)",
+    "buildingId": 694
+  },
+  {
+    "employerId": 837,
+    "location": "POINT (-2236.8263209885145 5274.27538066303)",
+    "buildingId": 17
+  },
+  {
+    "employerId": 838,
+    "location": "POINT (-1403.8103454524935 4457.26433207949)",
+    "buildingId": 422
+  },
+  {
+    "employerId": 839,
+    "location": "POINT (-1567.7082661009404 4491.2624087298655)",
+    "buildingId": 162
+  },
+  {
+    "employerId": 840,
+    "location": "POINT (-1771.452216635636 4258.263943913515)",
+    "buildingId": 917
+  },
+  {
+    "employerId": 841,
+    "location": "POINT (-1771.452216635636 4386.238292917949)",
+    "buildingId": 917
+  },
+  {
+    "employerId": 842,
+    "location": "POINT (-692.7127197082955 5040.3388326223985)",
+    "buildingId": 773
+  },
+  {
+    "employerId": 843,
+    "location": "POINT (-2330.4222998927135 2944.7204566724226)",
+    "buildingId": 869
+  },
+  {
+    "employerId": 844,
+    "location": "POINT (-836.719215114457 4482.040750623393)",
+    "buildingId": 86
+  },
+  {
+    "employerId": 845,
+    "location": "POINT (-2363.1419320065197 2673.8808116595965)",
+    "buildingId": 373
+  },
+  {
+    "employerId": 846,
+    "location": "POINT (-996.7808287569317 4750.184044489247)",
+    "buildingId": 966
+  },
+  {
+    "employerId": 847,
+    "location": "POINT (-1680.9362530924764 4258.263943913515)",
+    "buildingId": 917
+  },
+  {
+    "employerId": 848,
+    "location": "POINT (-468.02948129574554 4779.921390126033)",
+    "buildingId": 121
+  },
+  {
+    "employerId": 849,
+    "location": "POINT (-2231.66793504236 2598.728790351024)",
+    "buildingId": 426
+  },
+  {
+    "employerId": 850,
+    "location": "POINT (-2364.178807858101 5198.1957151603365)",
+    "buildingId": 485
+  },
+  {
+    "employerId": 851,
+    "location": "POINT (-1398.3957137180148 4280.0291470642405)",
+    "buildingId": 544
+  },
+  {
+    "employerId": 852,
+    "location": "POINT (-820.4751468446739 4770.301635511239)",
+    "buildingId": 474
+  },
+  {
+    "employerId": 853,
+    "location": "POINT (-811.6790007765514 4695.717947460926)",
+    "buildingId": 549
+  },
+  {
+    "employerId": 854,
+    "location": "POINT (-2107.0655661560804 4184.061539506543)",
+    "buildingId": 446
+  },
+  {
+    "employerId": 855,
+    "location": "POINT (-784.6236528229551 4940.6907489765335)",
+    "buildingId": 375
+  },
+  {
+    "employerId": 856,
+    "location": "POINT (-468.02948129574554 4846.264154979615)",
+    "buildingId": 121
+  },
+  {
+    "employerId": 857,
+    "location": "POINT (-1096.0839701505342 4912.223245927846)",
+    "buildingId": 190
+  },
+  {
+    "employerId": 858,
+    "location": "POINT (-1072.87107729431 4660.49395382038)",
+    "buildingId": 937
+  },
+  {
+    "employerId": 859,
+    "location": "POINT (-1684.5679842891263 3880.0711276345087)",
+    "buildingId": 238
+  },
+  {
+    "employerId": 860,
+    "location": "POINT (-836.8537841209326 4575.535706396641)",
+    "buildingId": 132
+  },
+  {
+    "employerId": 861,
+    "location": "POINT (-2235.2922404843403 5106.71812915923)",
+    "buildingId": 151
+  },
+  {
+    "employerId": 862,
+    "location": "POINT (-1475.3580476204697 4473.948598738494)",
+    "buildingId": 578
+  },
+  {
+    "employerId": 863,
+    "location": "POINT (-1967.8258905516104 4254.2510682971215)",
+    "buildingId": 93
+  },
+  {
+    "employerId": 864,
+    "location": "POINT (-1885.1886006319482 4569.0851981845035)",
+    "buildingId": 118
+  },
+  {
+    "employerId": 865,
+    "location": "POINT (-1968.219929915483 4032.689324603983)",
+    "buildingId": 862
+  },
+  {
+    "employerId": 866,
+    "location": "POINT (-1496.9713369216481 4493.171613333192)",
+    "buildingId": 578
+  },
+  {
+    "employerId": 867,
+    "location": "POINT (-1903.2691698783528 4549.78019591636)",
+    "buildingId": 118
+  },
+  {
+    "employerId": 868,
+    "location": "POINT (-1982.7850080737494 4381.550830536558)",
+    "buildingId": 416
+  },
+  {
+    "employerId": 869,
+    "location": "POINT (-855.2484275272525 4593.770197855418)",
+    "buildingId": 132
+  },
+  {
+    "employerId": 870,
+    "location": "POINT (-1499.9043260061567 4258.263943913515)",
+    "buildingId": 917
+  },
+  {
+    "employerId": 871,
+    "location": "POINT (-2202.659451917056 3456.928318795747)",
+    "buildingId": 297
+  },
+  {
+    "employerId": 872,
+    "location": "POINT (-2202.659451917056 3327.781752937518)",
+    "buildingId": 297
+  },
+  {
+    "employerId": 873,
+    "location": "POINT (-2000.3032213302695 4184.061539506543)",
+    "buildingId": 446
+  },
+  {
+    "employerId": 874,
+    "location": "POINT (-1985.985052430187 4683.882031145004)",
+    "buildingId": 567
+  },
+  {
+    "employerId": 875,
+    "location": "POINT (-981.7218378806529 4774.377841270679)",
+    "buildingId": 966
+  },
+  {
+    "employerId": 876,
+    "location": "POINT (-1670.937273533352 4186.622203455871)",
+    "buildingId": 411
+  },
+  {
+    "employerId": 877,
+    "location": "POINT (-1784.078473278472 4571.813634096875)",
+    "buildingId": 670
+  },
+  {
+    "employerId": 878,
+    "location": "POINT (-1104.6810874856722 4468.581510395101)",
+    "buildingId": 205
+  },
+  {
+    "employerId": 879,
+    "location": "POINT (-2198.792729602534 4271.178583140792)",
+    "buildingId": 930
+  },
+  {
+    "employerId": 880,
+    "location": "POINT (-2330.4222998927135 2982.861013084039)",
+    "buildingId": 869
+  },
+  {
+    "employerId": 881,
+    "location": "POINT (-911.019048928239 4853.786158585597)",
+    "buildingId": 243
+  },
+  {
+    "employerId": 882,
+    "location": "POINT (-1241.6483470328672 3722.01804223004)",
+    "buildingId": 106
+  },
+  {
+    "employerId": 883,
+    "location": "POINT (-2148.436841916328 5261.788712538423)",
+    "buildingId": 17
+  },
+  {
+    "employerId": 884,
+    "location": "POINT (-1968.219929915483 3886.9152696618244)",
+    "buildingId": 862
+  },
+  {
+    "employerId": 885,
+    "location": "POINT (-2195.7632940592357 5124.807852313174)",
+    "buildingId": 151
+  },
+  {
+    "employerId": 886,
+    "location": "POINT (-784.6236528229551 4863.66806749154)",
+    "buildingId": 375
+  },
+  {
+    "employerId": 887,
+    "location": "POINT (-1590.604526018032 4166.9915883892645)",
+    "buildingId": 339
+  },
+  {
+    "employerId": 888,
+    "location": "POINT (-1034.4629823865148 3711.3026228381386)",
+    "buildingId": 254
+  },
+  {
+    "employerId": 889,
+    "location": "POINT (-1590.4202895493163 4258.263943913515)",
+    "buildingId": 917
+  },
+  {
+    "employerId": 890,
+    "location": "POINT (-2240.4913941583936 5198.567602243795)",
+    "buildingId": 781
+  },
+  {
+    "employerId": 891,
+    "location": "POINT (-1089.9889021305112 4455.822342476473)",
+    "buildingId": 205
+  },
+  {
+    "employerId": 1279,
+    "location": "POINT (-654.0366978538146 3632.0760648960236)",
+    "buildingId": 923
+  },
+  {
+    "employerId": 1280,
+    "location": "POINT (-501.42676062779447 3608.0722709059037)",
+    "buildingId": 489
+  },
+  {
+    "employerId": 1281,
+    "location": "POINT (-250.10250760487784 4857.0064836405545)",
+    "buildingId": 580
+  },
+  {
+    "employerId": 1282,
+    "location": "POINT (-746.0297799695958 4008.345279959909)",
+    "buildingId": 765
+  },
+  {
+    "employerId": 1283,
+    "location": "POINT (-2909.0282137217323 6510.130398749252)",
+    "buildingId": 870
+  },
+  {
+    "employerId": 1284,
+    "location": "POINT (-746.105838089235 5429.550547514793)",
+    "buildingId": 260
+  },
+  {
+    "employerId": 1285,
+    "location": "POINT (170.74694042286592 4771.135720847398)",
+    "buildingId": 595
+  },
+  {
+    "employerId": 1286,
+    "location": "POINT (-2724.188038485895 6717.649856866765)",
+    "buildingId": 715
+  },
+  {
+    "employerId": 1287,
+    "location": "POINT (-5.816781980895537 3582.204933328363)",
+    "buildingId": 255
+  },
+  {
+    "employerId": 1288,
+    "location": "POINT (-657.7838584306992 5932.81369824289)",
+    "buildingId": 680
+  },
+  {
+    "employerId": 1289,
+    "location": "POINT (-3528.306824887696 4886.547525269254)",
+    "buildingId": 441
+  },
+  {
+    "employerId": 1290,
+    "location": "POINT (-625.2259566520925 4283.435087651933)",
+    "buildingId": 755
+  },
+  {
+    "employerId": 1291,
+    "location": "POINT (-2010.8517708960426 5283.76492656323)",
+    "buildingId": 475
+  },
+  {
+    "employerId": 1292,
+    "location": "POINT (-170.84228756724124 3790.7387811979065)",
+    "buildingId": 664
+  },
+  {
+    "employerId": 1293,
+    "location": "POINT (-1912.6667454275262 5288.50006673243)",
+    "buildingId": 333
+  },
+  {
+    "employerId": 1294,
+    "location": "POINT (-580.0171765817988 5936.726442233701)",
+    "buildingId": 49
+  },
+  {
+    "employerId": 1295,
+    "location": "POINT (-831.1509970580761 4313.035927387888)",
+    "buildingId": 981
+  },
+  {
+    "employerId": 1296,
+    "location": "POINT (-826.2456539995576 5240.884421871655)",
+    "buildingId": 1016
+  },
+  {
+    "employerId": 1297,
+    "location": "POINT (-3255.070596103328 5479.41178070503)",
+    "buildingId": 775
+  },
+  {
+    "employerId": 1298,
+    "location": "POINT (-3569.215604711074 4903.19250465635)",
+    "buildingId": 441
+  },
+  {
+    "employerId": 1299,
+    "location": "POINT (-769.6207629156387 3991.9429115396124)",
+    "buildingId": 765
+  },
+  {
+    "employerId": 1300,
+    "location": "POINT (-251.55200766343 4701.616285011303)",
+    "buildingId": 561
+  },
+  {
+    "employerId": 1301,
+    "location": "POINT (-2847.855610673995 6663.900855198909)",
+    "buildingId": 408
+  },
+  {
+    "employerId": 1302,
+    "location": "POINT (-3532.3417312509846 5586.896700834855)",
+    "buildingId": 76
+  },
+  {
+    "employerId": 1303,
+    "location": "POINT (-173.36434821207166 3690.962126114104)",
+    "buildingId": 352
+  },
+  {
+    "employerId": 1304,
+    "location": "POINT (-3325.5754177846347 5307.883074335268)",
+    "buildingId": 410
+  },
+  {
+    "employerId": 1305,
+    "location": "POINT (-416.1482587338951 5854.826833733975)",
+    "buildingId": 64
+  },
+  {
+    "employerId": 1306,
+    "location": "POINT (-643.7038073647876 5917.381045442618)",
+    "buildingId": 680
+  },
+  {
+    "employerId": 1307,
+    "location": "POINT (-711.2265332697073 3649.718385741581)",
+    "buildingId": 923
+  },
+  {
+    "employerId": 1308,
+    "location": "POINT (-580.0171765817988 5936.726442233701)",
+    "buildingId": 49
+  },
+  {
+    "employerId": 1309,
+    "location": "POINT (-3048.226902478323 6283.8148275615595)",
+    "buildingId": 88
+  },
+  {
+    "employerId": 1310,
+    "location": "POINT (-3061.6662672300545 5929.835547456925)",
+    "buildingId": 434
+  },
+  {
+    "employerId": 1311,
+    "location": "POINT (-1730.46161795225 5925.860203271363)",
+    "buildingId": 401
+  },
+  {
+    "employerId": 1312,
+    "location": "POINT (-271.3160303970743 4985.574640487972)",
+    "buildingId": 429
+  },
+  {
+    "employerId": 1313,
+    "location": "POINT (-276.66830053571516 5125.990451518039)",
+    "buildingId": 467
+  },
+  {
+    "employerId": 1314,
+    "location": "POINT (-3366.855921141151 5265.173730073946)",
+    "buildingId": 410
+  },
+  {
+    "employerId": 1315,
+    "location": "POINT (-1275.0132591831693 5248.064077146062)",
+    "buildingId": 156
+  },
+  {
+    "employerId": 1316,
+    "location": "POINT (447.7528813037526 4446.320032225456)",
+    "buildingId": 1034
+  },
+  {
+    "employerId": 1317,
+    "location": "POINT (-2616.4800271638437 6541.191811600034)",
+    "buildingId": 588
+  },
+  {
+    "employerId": 1318,
+    "location": "POINT (-525.2895730956825 4289.093106712981)",
+    "buildingId": 343
+  },
+  {
+    "employerId": 1319,
+    "location": "POINT (-3366.855921141151 5307.883074335268)",
+    "buildingId": 410
+  },
+  {
+    "employerId": 1320,
+    "location": "POINT (-840.6753278188867 5842.41531956319)",
+    "buildingId": 284
+  },
+  {
+    "employerId": 1321,
+    "location": "POINT (-2616.4800271638437 6497.734086456471)",
+    "buildingId": 588
+  },
+  {
+    "employerId": 1322,
+    "location": "POINT (-1506.2062401757785 4764.893776885248)",
+    "buildingId": 240
+  },
+  {
+    "employerId": 1323,
+    "location": "POINT (-3079.473260122901 6283.8148275615595)",
+    "buildingId": 88
+  },
+  {
+    "employerId": 1324,
+    "location": "POINT (-525.2260085411027 4093.343371642296)",
+    "buildingId": 486
+  },
+  {
+    "employerId": 1325,
+    "location": "POINT (-3565.1819079696543 6099.396253692319)",
+    "buildingId": 969
+  },
+  {
+    "employerId": 1326,
+    "location": "POINT (-3385.9171428962177 6106.353933788713)",
+    "buildingId": 47
+  },
+  {
+    "employerId": 1327,
+    "location": "POINT (-671.8639094966109 5917.381045442618)",
+    "buildingId": 680
+  },
+  {
+    "employerId": 1328,
+    "location": "POINT (-3044.6480084760724 5950.665941497604)",
+    "buildingId": 434
+  },
+  {
+    "employerId": 1329,
+    "location": "POINT (-3149.9034099651917 5907.34610112186)",
+    "buildingId": 413
+  },
+  {
+    "employerId": 1330,
+    "location": "POINT (-344.87724461848586 3683.020262283885)",
+    "buildingId": 409
+  },
+  {
+    "employerId": 1331,
+    "location": "POINT (-129.40600692752216 3983.3015893368247)",
+    "buildingId": 585
+  },
+  {
+    "employerId": 1332,
+    "location": "POINT (-749.8180735661666 5847.491401868583)",
+    "buildingId": 584
+  },
+  {
+    "employerId": 1333,
+    "location": "POINT (-1936.1772434479183 5280.458797272058)",
+    "buildingId": 333
+  },
+  {
+    "employerId": 1334,
+    "location": "POINT (-2992.288271256545 6202.617103468241)",
+    "buildingId": 487
+  },
+  {
+    "employerId": 1335,
+    "location": "POINT (-459.47416762396665 3608.0722709059037)",
+    "buildingId": 489
+  },
+  {
+    "employerId": 1336,
+    "location": "POINT (-746.105838089235 5478.005756514865)",
+    "buildingId": 260
+  },
+  {
+    "employerId": 1337,
+    "location": "POINT (-2488.0018597976323 5885.7340875007185)",
+    "buildingId": 269
+  },
+  {
+    "employerId": 1338,
+    "location": "POINT (-86.78279548948817 4702.886440892045)",
+    "buildingId": 136
+  },
+  {
+    "employerId": 1339,
+    "location": "POINT (-3257.563509525645 5415.033051466755)",
+    "buildingId": 8
+  },
+  {
+    "employerId": 1340,
+    "location": "POINT (-633.2986927355175 5354.847863423291)",
+    "buildingId": 767
+  },
+  {
+    "employerId": 1341,
+    "location": "POINT (-1033.1767361471275 5766.179874318859)",
+    "buildingId": 454
+  },
+  {
+    "employerId": 1734,
+    "location": "POINT (-3480.17040400516 6856.274228255146)",
+    "buildingId": 261
+  },
+  {
+    "employerId": 1735,
+    "location": "POINT (-3837.636675203619 5492.86911075103)",
+    "buildingId": 749
+  },
+  {
+    "employerId": 1736,
+    "location": "POINT (-3588.8792873039974 6178.752204471673)",
+    "buildingId": 521
+  },
+  {
+    "employerId": 1737,
+    "location": "POINT (-4153.336133623585 5376.423146435112)",
+    "buildingId": 1041
+  },
+  {
+    "employerId": 1738,
+    "location": "POINT (-3796.1198513891923 6367.922072582076)",
+    "buildingId": 627
+  },
+  {
+    "employerId": 1739,
+    "location": "POINT (-3873.9638746980395 5651.680013350011)",
+    "buildingId": 1028
+  },
+  {
+    "employerId": 1740,
+    "location": "POINT (-3819.3395451914357 5136.905970442903)",
+    "buildingId": 206
+  },
+  {
+    "employerId": 1741,
+    "location": "POINT (-3707.0822804277777 5086.911895550575)",
+    "buildingId": 990
+  },
+  {
+    "employerId": 1742,
+    "location": "POINT (-3297.4064056514912 7156.152298524017)",
+    "buildingId": 331
+  },
+  {
+    "employerId": 1743,
+    "location": "POINT (-3748.3766341391333 5264.252683412442)",
+    "buildingId": 808
+  },
+  {
+    "employerId": 1744,
+    "location": "POINT (-3588.3242190090755 6798.416765323038)",
+    "buildingId": 187
+  },
+  {
+    "employerId": 1745,
+    "location": "POINT (-3209.738139187618 6557.838945386657)",
+    "buildingId": 953
+  },
+  {
+    "employerId": 1746,
+    "location": "POINT (-3973.0979051297536 5154.380353332814)",
+    "buildingId": 912
+  },
+  {
+    "employerId": 1747,
+    "location": "POINT (-3697.997083892924 5406.876829329331)",
+    "buildingId": 37
+  },
+  {
+    "employerId": 1748,
+    "location": "POINT (-3098.599452999811 6628.6729119697975)",
+    "buildingId": 160
+  },
+  {
+    "employerId": 1749,
+    "location": "POINT (-3221.2402871851464 6153.955275915399)",
+    "buildingId": 932
+  },
+  {
+    "employerId": 1750,
+    "location": "POINT (-3285.6340071544328 6326.229707307784)",
+    "buildingId": 686
+  },
+  {
+    "employerId": 1751,
+    "location": "POINT (-4515.907604161345 4631.612406745221)",
+    "buildingId": 604
+  },
+  {
+    "employerId": 1752,
+    "location": "POINT (-3845.045732847575 5576.738358433912)",
+    "buildingId": 695
+  },
+  {
+    "employerId": 1753,
+    "location": "POINT (-3472.3085856843627 6781.220179840805)",
+    "buildingId": 807
+  },
+  {
+    "employerId": 1754,
+    "location": "POINT (-3455.755866902949 6846.648090702398)",
+    "buildingId": 261
+  },
+  {
+    "employerId": 1755,
+    "location": "POINT (-3433.3865437851464 7828.19605341454)",
+    "buildingId": 183
+  },
+  {
+    "employerId": 1756,
+    "location": "POINT (-3556.8182888817087 6641.646724169853)",
+    "buildingId": 277
+  },
+  {
+    "employerId": 1757,
+    "location": "POINT (-3741.432303349839 5162.439641767197)",
+    "buildingId": 949
+  },
+  {
+    "employerId": 1758,
+    "location": "POINT (-3742.540064583217 5916.875246852485)",
+    "buildingId": 267
+  },
+  {
+    "employerId": 1759,
+    "location": "POINT (-3699.8519673978653 6540.218682083818)",
+    "buildingId": 305
+  },
+  {
+    "employerId": 1760,
+    "location": "POINT (-3210.355459657344 6648.152454626876)",
+    "buildingId": 543
+  },
+  {
+    "employerId": 1761,
+    "location": "POINT (-3804.319468397756 5928.891714229324)",
+    "buildingId": 26
+  },
+  {
+    "employerId": 1762,
+    "location": "POINT (-3195.7106978818483 6669.514454239059)",
+    "buildingId": 543
+  },
+  {
+    "employerId": 1763,
+    "location": "POINT (-3136.1278958093117 6628.6729119697975)",
+    "buildingId": 160
+  },
+  {
+    "employerId": 1764,
+    "location": "POINT (-3233.0731689874065 6116.185085735686)",
+    "buildingId": 932
+  },
+  {
+    "employerId": 1765,
+    "location": "POINT (-3556.8182888817087 6705.3104479782905)",
+    "buildingId": 277
+  },
+  {
+    "employerId": 1766,
+    "location": "POINT (-3209.738139187618 6522.748316725878)",
+    "buildingId": 953
+  },
+  {
+    "employerId": 1767,
+    "location": "POINT (-3972.0306074440496 5494.63962663673)",
+    "buildingId": 285
+  },
+  {
+    "employerId": 1768,
+    "location": "POINT (-3837.722151176433 6367.922072582076)",
+    "buildingId": 627
+  },
+  {
+    "employerId": 1769,
+    "location": "POINT (-3864.510743062192 5591.096494771966)",
+    "buildingId": 695
+  },
+  {
+    "employerId": 1770,
+    "location": "POINT (-3796.1198513891923 6330.793189700022)",
+    "buildingId": 627
+  },
+  {
+    "employerId": 1771,
+    "location": "POINT (-3724.8780422091695 6559.417348100849)",
+    "buildingId": 305
+  },
+  {
+    "employerId": 1772,
+    "location": "POINT (-4067.560404648976 6647.483016330907)",
+    "buildingId": 928
+  },
+  {
+    "employerId": 1773,
+    "location": "POINT (-3823.49246369498 5777.21975219098)",
+    "buildingId": 877
+  },
+  {
+    "employerId": 1774,
+    "location": "POINT (-3448.9410759401935 6764.519625514673)",
+    "buildingId": 807
+  },
+  {
+    "employerId": 1775,
+    "location": "POINT (-4150.694543856866 5079.325752156183)",
+    "buildingId": 28
+  },
+  {
+    "employerId": 1776,
+    "location": "POINT (-3968.209268500128 6628.224805854068)",
+    "buildingId": 714
+  },
+  {
+    "employerId": 1777,
+    "location": "POINT (-3676.9008460947675 6798.416765323038)",
+    "buildingId": 187
+  },
+  {
+    "employerId": 1778,
+    "location": "POINT (-3973.0979051297536 5074.196536201016)",
+    "buildingId": 912
+  },
+  {
+    "employerId": 1779,
+    "location": "POINT (-4024.211498692567 5693.927626980997)",
+    "buildingId": 175
+  },
+  {
+    "employerId": 1780,
+    "location": "POINT (-3626.9857811665415 6864.377979830607)",
+    "buildingId": 583
+  },
+  {
+    "employerId": 1781,
+    "location": "POINT (-3480.17040400516 6856.274228255146)",
+    "buildingId": 261
+  },
+  {
+    "employerId": 1782,
+    "location": "POINT (-3205.791803054025 7158.9906355191815)",
+    "buildingId": 213
+  },
+  {
+    "employerId": 1783,
+    "location": "POINT (-3717.4879855839513 6703.2047004256)",
+    "buildingId": 788
+  },
+  {
+    "employerId": 1784,
+    "location": "POINT (-4017.808180711095 6949.612770383012)",
+    "buildingId": 453
+  },
+  {
+    "employerId": 1785,
+    "location": "POINT (-4597.345294446435 4632.743040664964)",
+    "buildingId": 129
+  },
+  {
+    "employerId": 1786,
+    "location": "POINT (-3300.166421375523 6148.413135904235)",
+    "buildingId": 738
+  },
+  {
+    "employerId": 1787,
+    "location": "POINT (-4002.9335312988205 6628.224805854068)",
+    "buildingId": 714
+  },
+  {
+    "employerId": 1788,
+    "location": "POINT (-3463.167738075059 7836.545593061912)",
+    "buildingId": 183
+  },
+  {
+    "employerId": 1789,
+    "location": "POINT (-3813.2913987997836 5750.038441232494)",
+    "buildingId": 877
+  },
+  {
+    "employerId": 1790,
+    "location": "POINT (-3927.9102395808727 5570.155155320008)",
+    "buildingId": 285
+  },
+  {
+    "employerId": 1791,
+    "location": "POINT (-3209.407405382886 6191.725466095112)",
+    "buildingId": 932
+  },
+  {
+    "employerId": 1792,
+    "location": "POINT (-3833.6935285901764 5804.401063149466)",
+    "buildingId": 877
+  },
+  {
+    "employerId": 1793,
+    "location": "POINT (-3313.211912858075 6185.8337275541235)",
+    "buildingId": 738
+  },
+  {
+    "employerId": 1794,
+    "location": "POINT (-3786.373075235378 4999.485452069126)",
+    "buildingId": 802
+  },
+  {
+    "employerId": 1795,
+    "location": "POINT (-3267.606054814424 6452.56705940432)",
+    "buildingId": 953
+  },
+  {
+    "employerId": 1796,
+    "location": "POINT (-3725.261225376805 6345.551342169127)",
+    "buildingId": 1011
+  },
+  {
+    "employerId": 1797,
+    "location": "POINT (-3759.480918044369 5179.602735764589)",
+    "buildingId": 949
+  }
+]

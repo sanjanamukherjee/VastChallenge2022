@@ -4,7 +4,8 @@ import Candle from "./charts/Candle";
 import ParallelAxis from "./charts/ParallelAxis";
 import PieChart from "./charts/PieChart";
 import SocialNetwork from "./charts/SocialNetwork";
-import Innovative from "./charts/Innovative";
+import Beeswarm from "./charts/Beeswarm";
+import Spider from "./charts/Spider";
 
 import GlobalFilter from "./GlobalFilter";
 
@@ -17,7 +18,8 @@ const MainComponent = () => {
             <ParallelAxis/>
             <PieChart/>
             <SocialNetwork/>
-            <Innovative/>
+            <Beeswarm/>
+            <Spider/>
         </div>
     )
 }
