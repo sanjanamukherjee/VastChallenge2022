@@ -12,6 +12,8 @@ const PieChart = () => {
         var travelTot = 0;
     var pieData = [];
 
+    const ref = useRef();
+
     useEffect(() => {
 
         for(var k in data){
@@ -31,11 +33,6 @@ const PieChart = () => {
             {name: "Travel", value: travelTot},
         ]
 
-    },[]);
-
-    const ref = useRef();
-
-    useEffect(() => {
         const svg = d3.select(ref.current);
 
         const width = +svg.attr("width");
@@ -46,26 +43,57 @@ const PieChart = () => {
         const g = svg.append("g").attr("transform", `translate(${width / 2}, ${height / 2})`);
 
         const color = d3.scaleOrdinal(d3.schemePastel2);
+
         const pie = d3.pie().value(d => d.value);
 
         const path = d3.arc()
             .outerRadius(radius - 10)
             .innerRadius(0);
 
-        const label = d3.arc()
-            .outerRadius(radius)
-            .innerRadius(radius - 80);
+        // const label = d3.arc()
+        //     .outerRadius(radius)
+        //     .innerRadius(radius - 80);
+        // console.log("pie Data - ", pie(pieData))
 
         const arc = g.selectAll(".arc")
-            .data(pie(pieData))
-            .enter().append("g")
-            .attr("class", "arc");
+                    .data(pie(pieData), d => d.data.name)
+                    .join(
+                        enter => {
 
-        arc.append("path")
-            .attr("d", path)
-            .attr("fill", d => color(d.data.value))
-            .attr("stroke", "black")
-            .style("stroke-width", "1px");
+                            const arc = enter.append("g")
+                                        .attr("class", "arc")
+                            arc.append("path")
+                                .attr("d", path)
+                                .attr("fill", d => color(d.data.value))
+                                .attr("stroke", "black")
+                                .style("stroke-width", "1px");
+                            return arc;
+                        
+                        },
+                        update => {
+
+                            update.select("path")
+                                .transition()
+                                .duration(1000)
+                                .attr("d", path)
+                                .attr("fill", d => color(d.data.value))
+                                .attr("stroke", "black")
+                                .style("stroke-width", "1px");
+                            return update;
+                        
+                        },
+                        exit => exit.remove()
+                    )
+        // const arc = g.selectAll(".arc")
+        //     .data(pie(pieData))
+        //     .enter().append("g")
+        //     .attr("class", "arc");
+
+        // arc.append("path")
+        //     .attr("d", path)
+        //     .attr("fill", d => color(d.data.value))
+        //     .attr("stroke", "black")
+        //     .style("stroke-width", "1px");
 
         //add legend
         var legend = svg.append("g")
@@ -91,14 +119,7 @@ const PieChart = () => {
                         .text(d => d.name)
                         .style("font-size", 15)
 
-                    
-        // arc.append("text")
-        //     .attr("transform", d => `translate(${label.centroid(d)})`)
-        //     .attr("dy", "0.15em")
-        //     .text(d => -d.data.value);
-    },[pieData]);
-
-
+    },[]);
 
     return (
         <div>
