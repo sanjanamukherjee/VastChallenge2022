@@ -43,7 +43,7 @@ const SocialNetwork = () => {
       .append('svg')
       .attr('width', width)
       .attr('height', height);
-    console.log("processedData.links", processedData.links)
+    
     const link = svg
       .selectAll('.link')
       .data(processedData.links)
@@ -109,8 +109,8 @@ const SocialNetwork = () => {
       return {
         id,
         group: interestGroup,
-        x: Math.random() * 500,
-        y: Math.random() * 300,
+        x: Math.random() * 800,
+        y: Math.random() * 600,
         radius: 5,
       };
     });
