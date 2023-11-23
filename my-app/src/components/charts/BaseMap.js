@@ -1,9 +1,8 @@
-import React from "react";
+import React, { useEffect, useRef, useState } from "react";
 
 const BaseMap = () => {
     return (
-        <div>
-            Base Map
+        <div id="map">
         </div>
     )
 }
