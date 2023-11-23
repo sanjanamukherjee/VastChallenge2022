@@ -7,7 +7,7 @@ var projection;
 var path = d3.geoPath();
 
 // Load the CSV data
-d3.csv("my-app/src/data/Buildings.csv").then(function(data) {
+d3.csv("../../data/Buildings.csv").then(function(data) {
   // Create an array of all the polygons
   var polygons = data.map(function(d) {
     // Remove the POLYGON prefix and outer parentheses
@@ -51,7 +51,7 @@ d3.csv("my-app/src/data/Buildings.csv").then(function(data) {
   };
 
   // Load the JSON data
-  d3.json("my-app/src/data/buildings.json").then(function(data) {
+  d3.json("../../data/buildings.json").then(function(data) {
     // Convert data to an array if it's an object
     if (!Array.isArray(data)) {
       data = Object.values(data);
