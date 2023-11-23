@@ -7,14 +7,12 @@ import data from "../../data/participantsUpdated.json";
 import { Data } from "../../Context";
 
 const SocialNetwork = () => {
-    // const { data } = useContext(Data);
-
-    const [nodes, setNodes] = useState([]);
-  const [links, setLinks] = useState([]);
-  const ref = useRef();
+    const chartRef = useRef();
+    const [nodes, setNodes] = useState();
+    const [links, setLinks] = useState();
 
   useEffect(() => {
-    // Fetch JSON data
+
     let myData = [];
     for(var k in data) {
         let myNewData = {
@@ -35,10 +33,63 @@ const SocialNetwork = () => {
     const processedData = processData(myData);
     setNodes(processedData.nodes);
     setLinks(processedData.links);
-    createSimulation();
-  }, []);
 
-  const processData = (data) => {
+    // Set up the SVG container
+    const width = 800;
+    const height = 600;
+
+    const svg = d3
+      .select(chartRef.current)
+      .append('svg')
+      .attr('width', width)
+      .attr('height', height);
+    console.log("processedData.links", processedData.links)
+    const link = svg
+      .selectAll('.link')
+      .data(processedData.links)
+      .enter()
+      .append('line')
+      .attr('class', 'link');
+
+    const node = svg
+      .selectAll('.node')
+      .data(processedData.nodes)
+      .enter()
+      .append('circle')
+      .attr('class', 'node')
+      .attr('r', 5)
+      .attr('fill', (d) => getColor(d.group));
+
+    // Position nodes and links
+    link
+      .attr('x1', (d) => {getNodeX(d.source)})
+      .attr('y1', (d) => getNodeY(d.source))
+      .attr('x2', (d) => {console.log("test", d.target); getNodeX(d.target)})
+      .attr('y2', (d) => getNodeY(d.target));
+
+    node.attr('cx', (d) => getNodeX(d)).attr('cy', (d) => getNodeY(d));
+
+    function getNodeX(node) {
+        // Manually set x-position for each node
+        // You can customize this based on your requirements
+        return node?.x || 0;
+      }
+  
+      function getNodeY(node) {
+        // Manually set y-position for each node
+        // You can customize this based on your requirements
+        return node?.y || 0;
+      }
+  
+      function getColor(group) {
+        // You can customize the node color based on groups or other criteria
+        // This is just a simple example
+        const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+        return colorScale(group);
+      }
+}, [data]);
+
+    const processData = (data) => {
     // Create nodes
     const nodeMap = {};
     const nodes = data.map((participant) => {
@@ -69,8 +120,8 @@ const SocialNetwork = () => {
     for (const participant of data) {
       for (const friend of participant.InterestGroupFriends) {
         links.push({
-          source: nodes.find((node) => node.id === node.participantId),
-          target: nodes.find((node) => node.id === friend),
+          source: nodes.find((node) => node.id === participant.participantId),
+          target: nodes.find((node) => node.id === +friend),
         });
       }
     }
@@ -78,51 +129,7 @@ const SocialNetwork = () => {
     return { nodes, links };
   };
 
-  const createSimulation = () => {
-    // const simulation = forceSimulation()
-    //   .nodes(nodes)
-    //   .force('link', 0.1)
-    //   .force('center', forceCenter([700 / 2, 500 / 2]))
-    //   .force('manyBody', forceManyBody())
-    //   .on('tick', tick);
-
-    // simulation.start();
-    const simulation = d3
-      .forceSimulation()
-      .force('link', d3.forceLink().id((d) => d.participantId))
-      .force('charge', d3.forceManyBody())
-      .force('center', d3.forceCenter(700 / 2, 500 / 2));
-
-    // Add links and nodes to the simulation
-    simulation.nodes(nodes).on('tick', ticked);
-    simulation.force('link').links(links);
-
-    return simulation;
-  };
-
-  const ticked = () => {
-    const svg = select(ref.current);
-
-    // Update node positions
-    svg.selectAll('.node')
-      .data(nodes)
-      .attr('cx', (d) => d.x)
-      .attr('cy', (d) => d.y);
-
-    // Update link positions
-    svg.selectAll('.link')
-      .data(links)
-      .attr('x1', (d) => d.source.x)
-      .attr('y1', (d) => d.source.y)
-      .attr('x2', (d) => d.target.x)
-      .attr('y2', (d) => d.target.y);
-  };
-
-    return (
-        <div>
-        <svg ref={ref} width={700} height={500} style={{border: "2px solid black"}}/>
-      </div>
-    )
+  return <div ref={chartRef} />;
 }
 
 export default SocialNetwork;
