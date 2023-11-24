@@ -71,7 +71,7 @@ d3.csv("../../data/Buildings.csv").then(function(data) {
       // Iterate over each row in the filtered data
       filteredData.forEach(function(d) {
         // Get the point coordinates from locationX and locationY
-        var location = projection([parseFloat(d.locationX), parseFloat(d.locationY)]);
+        var location = projection.current([parseFloat(d.locationX), parseFloat(d.locationY)]);
 
         // Append the point to the SVG and color it based on the building type
         d3.select("svg")
