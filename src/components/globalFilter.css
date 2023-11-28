@@ -1,0 +1,53 @@
+.age-range-slider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.update-button {
+    background-color: rgb(244, 251, 242);
+    border: 1px solid rgb(105, 179, 162);
+    border-radius: 10px;
+    cursor: pointer;
+    height: 35px;
+    width: 80px;
+    font-size: 12px;
+}
+
+.update-button:hover{
+    background-color: rgb(105, 179, 162);
+    color: white;
+}
+
+.reset-button{
+    background-color: rgb(244, 251, 242);
+    border: 1px solid rgb(179, 105, 105);
+    border-radius: 10px;
+    cursor: pointer;
+    height: 35px;
+    width: 80px;
+    font-size: 12px;
+}
+
+.reset-button:hover{
+    background-color: rgb(179, 105, 105);
+    color: white;
+}
+
+.buttons {
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.age-range-div {
+    width: 25%;
+}
+
+.interest-filter-div{
+    width: 25%;
+}
+
+.education-filter-div{
+    width: 25%;
+}
